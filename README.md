@@ -65,5 +65,5 @@ This project is licensed under the MIT License [MIT](https://choosealicense.com/
 
 ## 8️⃣ Demo
 
-Demo of the WhatsApp Chat Analyser can be found here
+Demo of the WhatsApp Chat Analyser can be found [Whatsapp Chat Analyser.webm](https://github.com/manash-jyoti/WhatsApp-Chat-Analyser/assets/90838725/642847c8-fd67-456a-b4fa-13a0b322d7fa)
 
